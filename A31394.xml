@@ -1,0 +1,194 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caution to the good people of England about the choice of members for the ensuing Parliament</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31394</idno>
+            <idno type="STC">Wing C1563</idno>
+            <idno type="STC">ESTC R27285</idno>
+            <idno type="EEBO-CITATION">09794374</idno>
+            <idno type="OCLC">ocm 09794374</idno>
+            <idno type="VID">44105</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31394)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 44105)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1352:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Caution to the good people of England about the choice of members for the ensuing Parliament</title>
+               </titleStmt>
+               <extent>2 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Elections.</term>
+               <term>Great Britain --  Politics and government --  1660-1714.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:44105:1"/>
+            <pb n="1" facs="tcp:44105:1" rendition="simple:additions"/>
+            <head>CAUTION to the Good People of <hi>ENGLAND,</hi> about the Choice of Members for the Enſuing Parlia<g ref="char:EOLhyphen"/>ment.</head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>IT is now fully ſeen, that notwithſtanding the Mortification, which ſome were under during part of the <hi>Late King</hi>'s Reign; yet they are now but the ſame Men, which they were in the Reign of <hi>King Charles</hi> the II, when they ran down all that oppoſed their Deſigns, as <hi>Fanaticks</hi> or <hi>Commonwealths-men.</hi>
+            </p>
+            <p>But never were Names more improperly applied, when thoſe <hi>High Tantivy-men</hi> were truly poſſeſt with that Fanatick-fury or Madneſs, with which they with<g ref="char:EOLhyphen"/>out colour reproach others. Nor can any thing con<g ref="char:EOLhyphen"/>tribute more to a <hi>Commonwealth,</hi> than the extrava<g ref="char:EOLhyphen"/>gancies of them, who by abuſing the Favour of <hi>Princes,</hi> have render'd the Governments of <hi>ſome of them</hi> Grie<g ref="char:EOLhyphen"/>vous, and Inſupportable; making very forward pre<g ref="char:EOLhyphen"/>tences of <hi>Loyalty,</hi> and vowing <hi>Lives</hi> and <hi>Fortunes,</hi> which they never intended to venture.</p>
+            <p>Theſe Men are now eſpecially the more dangerous, becauſe thoſe rights of <hi>Soveraignty</hi> which they aſcribe to all <hi>Kings,</hi> are not only Inconſiſtent with the <hi>Laws, Liberties,</hi> and <hi>Statutes,</hi> of <hi>This</hi> or any other <hi>Free Na<g ref="char:EOLhyphen"/>tion,</hi> but with the Right of our preſent <hi>King</hi> and <hi>Queen:</hi> and the <hi>late King</hi> is evidently that <hi>
+                  <g ref="char:V">Ʋ</g>naccount<g ref="char:EOLhyphen"/>able, Irreſiſtible, Sacred Monarch,</hi> whom they contend for.</p>
+            <p>To obſerve what Fears the <hi>Papiſts</hi> expreſs at this time of Danger to the <hi>Church</hi> of <hi>England,</hi> which they were but lately pulling down as faſt as they could, and of our falling into a <hi>Commonwealth,</hi> which the chief of their <hi>Writers</hi> have commended moſt; would induce one to believe that <hi>Church</hi> and <hi>Crown,</hi> are but the <hi>Word</hi> given the <hi>Party,</hi> and the <hi>Paſport</hi> to their <hi>Regi<g ref="char:EOLhyphen"/>ments</hi> in the <hi>Highlands</hi> of <hi>Scotland;</hi> or rather an Ar<g ref="char:EOLhyphen"/>tifice to <hi>Liſt Soldiers</hi> for their <hi>ſuppoſed King</hi> of <hi>Divine Right,</hi> againſt him whom they call but <hi>King in Fact.</hi> And this they would have ignorant People believe to be the <hi>Doctrine</hi> of the <hi>Church</hi> of <hi>England.</hi> Thus, tho they dare not directly declare for the <hi>Late King,</hi> they prepare Men inſenſibly for him, and follow the ſteps of the <hi>Obſervator,</hi> and other <hi>Hackney Writers</hi> for <hi>Rome,</hi> who while <hi>Popery</hi> was getting within the Walls, ala<g ref="char:EOLhyphen"/>rum'd you againſt <hi>Moderate Churchmen,</hi> and other <hi>Proteſtants;</hi> but eſpecially, the Men of <hi>Forty One,</hi> whom they had coniured up from them Graves.</p>
+            <p>You cannot but obſerve the <hi>Emiſſaries,</hi> and <hi>Inſtru<g ref="char:EOLhyphen"/>ments,</hi> who are again playing over the ſame Game at <hi>Markets, Fairs, Churches,</hi> and all Places of publick Reſort. The Succeſs which the <hi>Knaves</hi> have formerly had, gives them hopes again to make <hi>Honeſt Men</hi> Tools, to carry on their Work; and indeed, it is a melanchol<g ref="char:EOLhyphen"/>ly Conſideration to think, how many are now cheated in as groſs a manner, as the <hi>Romiſh Prieſts</hi> impoſe up<g ref="char:EOLhyphen"/>on their credulous Laity. Many of their <hi>Hirelings</hi> paſs among you for <hi>zealous Churchmen,</hi> juſt as the <hi>Popiſh Gentry</hi> do for <hi>Officers</hi> of this <hi>Kings Army,</hi> by their <hi>Scarlet</hi> or <hi>Blew-Coats,</hi> which is their common Diſguiſe.</p>
+            <p>You, <hi>The good People of</hi> England, are in earneſt in that Cauſe, which brought over <hi>His preſent Majeſty.</hi> Remember His moſt gracious Declaration, which en<g ref="char:EOLhyphen"/>gaged your <hi>Hearts,</hi> your <hi>Fortunes,</hi> your <hi>Lives;</hi> nay, what is more, your <hi>Reputations</hi> and <hi>Honours,</hi> when the moſt eminent among you for <hi>untainted Loralty,</hi> contemn'd the Reproach of being accounted <hi>Rebels</hi> in the Cauſe of <hi>God,</hi> and your <hi>Country.</hi>
+            </p>
+            <p>Nor did you fear to be thought <hi>Commonwealths men,</hi> while you were ſo hearty in deſiring that our preſent <hi>Sovereigns</hi> would accept the <hi>Crown,</hi> as an earneſt of this <hi>Nations Gratitude,</hi> and <hi>Love of Kingly Power;</hi> while others, if they meant any thing by a <hi>Regency,</hi> but an Office under the <hi>Late King,</hi> c<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>able at his Pleaſure; were directly for a <hi>Commonwealth,</hi> with ſuch another <hi>Protector</hi> as <hi>Oliver Cromwell.</hi>
+            </p>
+            <p>This is little leſs than Demonſtration, for this <hi>Re<g ref="char:EOLhyphen"/>gency,</hi> or <hi>Protectorſhip,</hi> which is the old <hi>Engliſh word</hi> for it, while the Lovers of <hi>France</hi> were for the <hi>French</hi> word; either was to be derived from the <hi>Late Kings</hi> Authority, or from the <hi>Peoples.</hi> If from the <hi>Kings,</hi> then his entire <hi>Power,</hi> or indiviſible <hi>Sovereignty,</hi> would come back to him, when ever he thought ſit to return, tho perhaps he could not depute another in his Abſence, becauſe the Law allows of no Act of <hi>Royal Power,</hi> but while a <hi>King</hi> is in Poſſeſſion.</p>
+            <p>If it were derived from the <hi>People,</hi> this were a Go<g ref="char:EOLhyphen"/>vernment of their own Choice, without a <hi>King,</hi> and what is that, but a <hi>Commonwealth.</hi> Thus, this part of the Charge againſt Men moderate in all things, but in their Zeal for the <hi>Proteſtant Religion,</hi> and for this <hi>Go<g ref="char:EOLhyphen"/>vernment,</hi> falls upon their Accuſers, who either would have the <hi>Church</hi> of <hi>England</hi> preſerved by a <hi>Popiſh King,</hi> or the <hi>Monarchy</hi> by a <hi>Commonwealth</hi>
+            </p>
+            <p>Many <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> who roſe in Arms to meet your <hi>Great Deliverer,</hi> while the Generality ſhew'd the like Diſpoſi<g ref="char:EOLhyphen"/>tion, have this for ever to ſtop their mouths, when they would accuſe you of <hi>Rebellion;</hi> that ſome of them were <hi>Rebels</hi> by their own Confeſſion, in <hi>Levying War</hi> againſt one, whom they acknowledg ſtill to be their <hi>King,</hi> whilſt you, at leaſt acquit your ſelves before <hi>God,</hi> as you re<g ref="char:EOLhyphen"/>ſiſted not the <hi>Power</hi> which he had permitted or placed over you, till it, wholly ceaſt to be any <hi>Ordinance</hi> of <hi>God</hi> or Man; and that he who had been your <hi>King,</hi> had loſt both his <hi>Name</hi> and <hi>Authority.</hi>
+            </p>
+            <p>That you may reap the full benefit of His <hi>Preſent Majeſties</hi> moſt <hi>Gracious Declaration,</hi> while he was on<g ref="char:EOLhyphen"/>ly <hi>Prince</hi> of <hi>Orange,</hi> I take leave to offer theſe <hi>Can<g ref="char:EOLhyphen"/>tions</hi> to you, in Relation to that <hi>Choice</hi> which ap<g ref="char:EOLhyphen"/>proaches.</p>
+            <p n="1">1. To have a care of any Man,<note place="margin">Ken re<g ref="char:EOLhyphen"/>commend<g ref="char:EOLhyphen"/>ed by them who refuſe the Oath of Allegi<g ref="char:EOLhyphen"/>ance, <hi>&amp;c.</hi> Regency-Men.</note> for whom you are courted by thoſe who have not taken the <hi>Oath of Allegiance</hi> to this <hi>King</hi> and <hi>Queen,</hi> being in Capacities which require it, or who decline all publick Employments to avoid it; or if they have taken the Oath, declare that it was with ſuch Reſerva<g ref="char:EOLhyphen"/>tions, as leave room for <hi>Allegiance</hi> to the <hi>Late King.</hi>
+            </p>
+            <p n="2">2. By no means to chuſe the <hi>Regency-men,</hi> who were not only againſt the Government of our Preſent <hi>King</hi> and <hi>Queen,</hi> but by their unſeaſonable <hi>Loyalty</hi> to the <hi>Late King,</hi> whom they would not aſſiſt in his greateſt Extremity; occaſioned the delay of Relief to the <hi>poor Proteſtants</hi> in <hi>Ireland,</hi> and that Expence of <hi>Blood</hi> and <hi>Treaſure</hi> which has followed it.</p>
+            <p>That this may appear to you more plainly, it is to he obſerved, That the loſs of ſo much time, as was unne<g ref="char:EOLhyphen"/>ceſſarily ſpun out in Diſputes, was in it ſelf but a ſmall miſchief in Compariſon of the immediate and natural Conſequences, in encouraging the <hi>Rebels</hi> in <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> who were ready to have ſubmitted upon any Terms, till they found the Strength of their <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and making it needful for His Majeſty <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:44105:2"/>rei<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Troops to ſecure him againſt them, who were ſo fond of Allegiance to the <hi>Abdicated King;</hi> nor could he tell which of thoſe, who had declared for him, were to be truſted againſt one whom many of them ſtill look'd on as their King.</p>
+            <p>This is a true and juſt <hi>Vindication</hi> of His <hi>Majeſties</hi> great Wiſdom and Inclination to make His <hi>Kingdoms</hi> happy, and give Peace to <hi>Chriſtendom!</hi> while ſome, out of labour to clear <hi>Evil Inſtruments,</hi> caſt Reflecti<g ref="char:EOLhyphen"/>ons upon <hi>Him,</hi> contrary to that Character which all the <hi>World</hi> has conceived of <hi>Him</hi> But as to them of the <hi>Regency,</hi> they were for it, either out of <hi>Principle,</hi> be<g ref="char:EOLhyphen"/>heving the <hi>Late Kings</hi> Royal Power to continue; or from <hi>Deſign,</hi> as they thought that ſide the Strongeſt; or that by joyning with it, they might be conſiderable enough to be bought off, either way the <hi>Late King</hi> has been beholden to them; but neither our Preſent <hi>King</hi> and <hi>Queen,</hi> nor their <hi>People.</hi>
+            </p>
+            <p n="3">3. You may conſider,<note place="margin">
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>rs of the Bill of Exclu<g ref="char:EOLhyphen"/>ſion.</note> That they who oppoſed the <hi>Bill of Excluſion,</hi> generally did it upon a Principle of the unalterableneſs of the <hi>Succeſſion,</hi> which is directly contrary to our <hi>Kings</hi> Title. Not but that ſome few of them are to be thought to have gone upon other Grounds, they having in all other things been always in the Intereſt of their <hi>Country.</hi>
+            </p>
+            <p n="4">4 You ought not to chuſe any who were <hi>Inſtru<g ref="char:EOLhyphen"/>ments</hi> of <hi>Violence</hi> and <hi>Oppreſſion</hi> in the two laſt Reigns.<note place="margin">Inſtru<g ref="char:EOLhyphen"/>ments of Violence formerly.</note> The men are known among you, they have left their marks in the ruin of many Families; and tho Death has put an end to the miſeries of ſome of them, 'tis not ſo long ſince the Lamentations of their Friends, their Wives, their Children, ſtruck through your very hearts, and you were your ſelves weeping Spectators of the inhumanities and butcheries under which they ſuf<g ref="char:EOLhyphen"/>fered.</p>
+            <p>Have a care leſt you come into <hi>Partnerſhip</hi> with their guilt, who made it dangerous to be an <hi>Engliſh<g ref="char:EOLhyphen"/>man,</hi> or to appear for the intereſt of all <hi>Proteſtants</hi> in general, while they ridicul'd the very name.</p>
+            <p n="5">5.<note place="margin">Sons or Re<g ref="char:EOLhyphen"/>lations of them who have got<g ref="char:EOLhyphen"/>ten Wealth or Honours by the ſpoil of the Li<g ref="char:EOLhyphen"/>berties <hi>&amp;c.</hi> Such as are likely to repeal the Acts of the laſt Parlia<g ref="char:EOLhyphen"/>ment.</note> Be cautious how you chuſe the Sons or nigh Re<g ref="char:EOLhyphen"/>lations of them who got Riches or Honours by the Spoil of the Liberties of their Countrey; if their Fa<g ref="char:EOLhyphen"/>thers or near Relations are living, their dependance upon them is too great to permit them to enquire free<g ref="char:EOLhyphen"/>ly into thoſe miſcarriages which you complain of: if they are dead, their Memories or Eſtates which might be ſubject to <hi>Attainders,</hi> or <hi>Confiſcations, to eaſe you of Taxes,</hi> will give the young men too ſtrong a byaſs.</p>
+            <p n="6">6. Take care leſt you chuſe ſuch as may repeal the Acts of the laſt Parliament, either as diſliking the mat<g ref="char:EOLhyphen"/>ter of them, or queſtioning the Authority, which not only made an happy Settlement of the Crown, and well ſecured to you many Civil Rights which had been invaded, but freed you from the burden of <hi>Chimuey<g ref="char:EOLhyphen"/>money;</hi> and eaſed many of your <hi>fellow Proteſtants,</hi> who had been ſeverely proſecuted, to the weakning your hands againſt the common Enemy, and enriching only <hi>Informers, Officers</hi> of the <hi>Spiritual Court, Clerks of the Peace,</hi> and ſome greedy <hi>Juſtices.</hi>
+            </p>
+            <p n="7">7.<note place="margin">Acceſſa<g ref="char:EOLhyphen"/>ries to the inurders of L. <hi>Ruſ<g ref="char:EOLhyphen"/>ſel, &amp;c.</hi>
+               </note> Be ſure to avoid all <hi>Judges, Lawyers, Sheriffs, Jury-men,</hi> or others, who were acceſſary to the Mur<g ref="char:EOLhyphen"/>ders of <hi>Ld. Ruſſel, Col. Sidney, Sir Tho. Amſtrong, Mr. Corniſh, Mr. Colledg,</hi> or who by ſlighting the po<g ref="char:EOLhyphen"/>ſitive Proof againſt Sir <hi>George Wakeman,</hi> or robbing the City of <hi>London</hi> of its choice of <hi>Sheriffs,</hi> were means of ſtifling the Popiſh Plor, and turning the Plot upon Proteſtants.</p>
+            <p n="8">8.<note place="margin">Penſuners</note> 
+               <hi>Penſioners,</hi> who ſold their <hi>Voices</hi> and their <hi>Coun<g ref="char:EOLhyphen"/>try</hi> at certain Rates, according to the Reputation which each man had in his Houſe, how ſmoothly ſoever they may have carried it ſince the Temptation has ceas'd, are never to be truſted, leſt they fell you to <hi>France,</hi> or any Intereſt that bids moſt.</p>
+            <p n="9">9.<note place="margin">Maintain<g ref="char:EOLhyphen"/>ere of the Diſpenſing Power, <hi>&amp;c.</hi>
+               </note> Promoters and Maintainers of the <hi>Diſpenſing</hi> or other <hi>arbitrary</hi> Powes, Abhorrers of Petitions, and modeſt Applications for obtaining the ſitting of a Par<g ref="char:EOLhyphen"/>liament, to enquire into the Popiſh Plot, ought to give very good Proofs of their Repentance before you chuſe them for your <hi>Repreſentatives.</hi>
+            </p>
+            <p n="10">10.<note place="margin">Surrends rers of charters.</note> Your ſenſe of what you have ſuffered by the Surrenders of Charters, how nigh you were to the loſs of your greateſt Civil Right, and how far the <hi>common people</hi> were excluded from Voting, may al<g ref="char:EOLhyphen"/>moſt make it needleſs to caurion you againſt <hi>Surren<g ref="char:EOLhyphen"/>derers, Promoters</hi> or <hi>Adviſers</hi> of <hi>Surrenders</hi> of <hi>Char<g ref="char:EOLhyphen"/>ters.</hi> How much ſoever the Threats and Sollicitations of Lieutenants, Deputy-Lieutenants, Juſtices, Recorders and others, with face of Authority, may plead in ex<g ref="char:EOLhyphen"/>cuſe of well-meaning Countrey-men, not ſo well ac<g ref="char:EOLhyphen"/>quainted with the ends for which they were delivered up, nothing can leſſen the Crime of ſuch as pretend to repreſent the <hi>collective Wiſdom</hi> of the <hi>Nation.</hi>
+            </p>
+            <p n="11">11.<note place="margin">Some im<g ref="char:EOLhyphen"/>mediate conſequen<g ref="char:EOLhyphen"/>ces of thi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> choice.</note> It concerns you by this Choice from which His <hi>Majeſty</hi> is like to form a ſetled Judgment of you, to re<g ref="char:EOLhyphen"/>preſent your ſelves worthy of His moſt indulgent pur<g ref="char:EOLhyphen"/>poſes; the fault, doubtleſs, will lye at your own doors, if you become not an <hi>happy People under him;</hi> which that you may be, you ought to take particular care, that no man may be choſen by you, whoſe buſineſs it has been, and therefore 'tis probable may be, to alie<g ref="char:EOLhyphen"/>nate your Affections from the preſent Government; which it behoves you to Support, as you would be free from the <hi>French Slavery</hi> and <hi>Dragoons:</hi> The like Con<g ref="char:EOLhyphen"/>ſideration ſhould oblige you to avoid thoſe who would ſeparate the <hi>King</hi> from his <hi>People,</hi> or the <hi>Church</hi> from both, or from all other <hi>Proteſtants</hi> and <hi>Proteſtant Churches:</hi> How much ſoever particular Perſons may profit by ſuch Diviſions, it is morally impoſſible that the Nation ſhould not be weakned by them.</p>
+            <p>
+               <hi>Gentlemen,</hi>
+            </p>
+            <p>If you chuſe Men of <hi>Fortunes</hi> and <hi>Reputations,</hi> and (where other Circumſtances do not greatly over-bal<g ref="char:EOLhyphen"/>lance) of good <hi>Families,</hi> with regard to the Cautions which I have offered, out of an unfeigned Love to my <hi>Countrey,</hi> you may well hope to revive the Honour of the <hi>Engliſh Mation.</hi>
+            </p>
+            <p>I need not caution you againſt <hi>Diſſenters</hi> from the <hi>Church of England,</hi> becauſe how much ſoever you may have been impoſed upon formerly by thoſe of them who were <hi>Papiſts,</hi> they cannot now expect to be choſen? and tho ſome <hi>Proteſtant Diſſenters</hi> may have intereſt enough for it, yet they will in prudence decline the competition with men of <hi>Moderation,</hi> who are for the good of the whole, before any <hi>Party</hi> or <hi>Faction;</hi> and if Proteſtant <hi>Diſſenters</hi> ſtand to keep out others, you will have reaſon to be for them.</p>
+            <p>Neither need I mention other <hi>Commonwealths m<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n</hi> than thoſe of the <hi>Regency;</hi> for tho ſome men thought the faults of former Reigns might juſtifie their ſucceſ<g ref="char:EOLhyphen"/>ful endeavours to alter the Government then, yet their own experience of the neceſſity of <hi>Kingly Power,</hi> and the affection which they have ever ſince ſhown for the <hi>Engliſh Monarchy,</hi> has clear'd them from that im<g ref="char:EOLhyphen"/>putation now; and all others that way inclin'd, are as few and as inconſiderable, as the <hi>Regulators</hi> who went about for hire to ſettle Corporations, according to the Power firſt given by <hi>Surrenderers;</hi> for either of them to pretend to be choſen at this time, were a piece of Conſidence which none but themſelves could be guil<g ref="char:EOLhyphen"/>ty of.</p>
+            <p>In ſhort; This Election will ſhew, Whether you are for <hi>Papiſt</hi> or <hi>Proteſtant,</hi> King <hi>James</hi> or King <hi>William;</hi> and ſhould you find the effect of the worſt choice, there would be ſmall comfort in the excuſe of Fools, <hi>That ye had not thought it.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed in the Year 1690.</p>
+            <pb facs="tcp:44105:2"/>
+         </div>
+      </back>
+   </text>
+</TEI>
